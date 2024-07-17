@@ -1,13 +1,13 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbau.edu.tr%2Ficerik%2F3890-bilgisayar-muhendisligi&psig=AOvVaw0izKB-yp_sVmDyxmOoFpI0&ust=1708802738223000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKicvLOYwoQDFQAAAAAdAAAAABAh)
 
 <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">A passionate Data Science developer from Türkiye</h3>
+<h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Healthcare**
+- 🔭 I’m currently working on **YummyYummy**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Healthcare**
+- 🤝 I’m looking for help with **Machine Learning2**
 
 - 📫 How to reach me **beyzaust28@gmail.com**
 
