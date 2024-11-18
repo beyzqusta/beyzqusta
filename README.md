@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **YummyYummy**
+- 🔭 I’m currently working on **MathGalaxy**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Machine Learning2**
+- 🤝 I’m looking for help with **HeroLeap**
 
 - 📫 How to reach me **beyzaust28@gmail.com**
 
